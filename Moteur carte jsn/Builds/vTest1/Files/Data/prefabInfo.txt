@@ -1,0 +1,26 @@
+Taille = 3
+
+Item n°1 :
+Texture = 0
+Type = 3
+Vitesse = 1,5 (peut être écrite avec une virgule)
+Rotation = 0 (angle en degré)
+Forme = 0
+Etat = 0
+
+Item n°2 :
+Texture = 1
+Type = 2
+Vitesse = 1,0 (peut être écrite avec une virgule)
+Rotation = 0 (angle en degré)
+Forme = 0
+Etat = 1
+
+Item n°3 :
+Texture = 2
+Type = 1
+Vitesse = 0,5 (peut être écrite avec une virgule)
+Rotation = 0 (angle en degré)
+Forme = 0
+Etat = 1
+

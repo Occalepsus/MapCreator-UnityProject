@@ -1,0 +1,4 @@
+Pavé%1%CubeTex%0%1%0%0%0%0%0
+Rond%1%SphereTex%2%3%0%1%1%1%1
+Truc%1%Test Texture%1%0,5%0%-1%-1%-1%-1
+State Test%3%State1%State2%State3%25%75%0%0%0%-1%-1%-1%-1
